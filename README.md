@@ -17,3 +17,10 @@ todays task is to complete restfull api
 3 DELETE - DONE
 4 POST -
 5 PATCH -
+
+
+
+**Today's Progress**:
+
+Started Web Authentication 
+
