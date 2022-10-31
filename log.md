@@ -17,13 +17,12 @@ ADD a postman to send post request it will send the data to Studio 3t(The mongoD
 
 **Today's Progress**:
 
-today's task is to complete restfull api
-
-1 GET - DONE
-2 POST - DONE
-3 DELETE - DONE
-4 POST - Done
-5 PATCH - Done
+today's task is to complete the restfull api
+1. GET - Done
+2. POST - Done
+3. DELETE - Done
+4. POST - Done
+5. PATCH - Done
 
 
 ### Day 002: October 26, 2022 (Web Authentication)
