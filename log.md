@@ -63,7 +63,9 @@ Starting a web protection project
 ### Day 006: October 31, 2022 (level 2 Encription)
 
 1.Applied a encription to website using mongoose pacage (dotenv)
-2.Also using git ignore hide the encrption key in .env file
+2.it takes users password and encrypted using a encryption key and using a particular cipher method to a ciphertext which will make it hard for peoples to guess whats the password actually is
+3.Also using git ignore hide the encrption key in .env file
+
 
 **Link to work:**
 
