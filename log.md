@@ -2,14 +2,84 @@
 
 ## Log
 
-### Day 000: December 24, 2022 (RestFul API)
+### Day 000: October 24, 2022 (RestFul API)
 
 **Today's Progress**:
 
 Build Rest API 
+ADD a postman to send post request it will send the data to Studio 3t(The mongoDB client
 
 **Link to work:**
 
 - <https://github.com/ayushlohmod/REST-API>
 
-### Day 001: December 25, 2022 (Ideas - Brainstorming)
+### Day 001: October 25, 2022 (Complete RestFull API)
+
+**Today's Progress**:
+
+today's task is to complete restfull api
+
+1 GET - DONE
+2 POST - DONE
+3 DELETE - DONE
+4 POST - Done
+5 PATCH - Done
+
+
+### Day 002: October 26, 2022 (Web Authentication)
+
+**Today's Progress**:
+
+Starting a web protection project
+1. Learn how and why Web Protection
+2. Setup The environment to start web Authentication project 
+
+### Day 003: October 27, 2022 (Frontend of Web Authentication)
+
+**Today's Progress**:
+
+1. setup the initial project files
+2. Design the frontend of the website using Bootstrap ejs css html
+
+### Day 003: October 28, 2022 (Backend of Web Authentication)
+
+**Today's Progress**:
+
+1.design the backend so that website and coneect to server
+
+### Day 004: October 29, 2022 (Database on Web Authentication)
+
+**Today's Progress**:
+
+1.implemented A database to a web authentication app
+2. learned 3 level of sequrity
+
+### Day 005: October 30, 2022 (Level 1 Security)
+
+**Today's Progress**:
+
+1.Applied Level 1 security - creating an account for a user (Email & Password) and store there data
+2. implemented mongoDB for Users account
+
+### Day 006: October 31, 2022 (level 2 Encription)
+
+1.Applied a encription to website using mongoose pacage (dotenv)
+2.Also using git ignore hide the encrption key in .env file
+
+**Link to work:**
+
+- <https://github.com/ayushlohmod/WEB-Authentication>
+
+
+
+
+### Day 007: November 01, 2022 (Ideas - Brainstorming)
+
+
+
+
+
+
+
+
+
