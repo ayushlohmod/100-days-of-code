@@ -40,34 +40,40 @@ Starting a web protection project
 1. setup the initial project files
 2. Design the frontend of the website using Bootstrap ejs css html
 
-### Day 003: October 28, 2022 (Backend of Web Authentication)
+### Day 004: October 28, 2022 (Backend of Web Authentication)
 
 **Today's Progress**:
 
-1.design the backend so that website and coneect to server
+1. design the backend so that website and coneect to server
 
-### Day 004: October 29, 2022 (Database on Web Authentication)
+### Day 005: October 29, 2022 (Database on Web Authentication)
 
 **Today's Progress**:
 
-1.implemented A database to a web authentication app
+1. implemented A database to a web authentication app
 2. learned 3 level of sequrity
 
-### Day 005: October 30, 2022 (Level 1 Security)
+### Day 006: October 30, 2022 (Level 1 Security)
 
 **Today's Progress**:
 
-1.Applied Level 1 security - creating an account for a user (Email & Password) and store there data
+1. Applied Level 1 security - creating an account for a user (Email & Password) and store there data
 2. implemented mongoDB for Users account
 
-### Day 006: October 31, 2022 (level 2 Encription)
+### Day 007: October 31, 2022 (level 2 Encription)
 
-1.Applied a encription to website using mongoose pacage (dotenv)
+**Today's Progress**:
 
-2.it takes users password and encrypted using a encryption key and using a particular cipher method to a ciphertext which will make it hard for peoples to guess whats the password actually is
+1. Applied a encription to website using mongoose pacage (dotenv)
+2. it takes users password and encrypted using a encryption key and using a particular cipher method to a ciphertext which will make it hard for peoples to guess whats the password actually is
+3. Also using git ignore hide the encrption key in .env file
 
-3.Also using git ignore hide the encrption key in .env file
-
+**UPDATE-**
+**Adding level 3 security (hashing)**:
+ 
+1. Add hashing encryption to website because the cipher encreaption is weaker and hashing is much stronger
+2. Use md5 package from ndm for hashing
+ 
 
 **Link to work:**
 
@@ -76,7 +82,7 @@ Starting a web protection project
 
 
 
-### Day 007: November 01, 2022 (Ideas - Brainstorming)
+### Day 008: November 01, 2022 (Ideas - Brainstorming)
 
 
 
