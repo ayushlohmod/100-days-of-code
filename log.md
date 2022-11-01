@@ -84,6 +84,8 @@ Starting a web protection project
 
 ### Day 008: November 01, 2022 (Ideas - Brainstorming)
 
+So today i take a break and brainstroming what i can build and 
+
 
 
 
