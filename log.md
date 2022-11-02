@@ -90,7 +90,11 @@ So today i take a break and brainstroming what i can build and
 ### Day 007: October 31, 2022 (level 4 Hashing & Salting)
 
 **Today's Progress**:
-1. 
+1. using A new hashing method bcrypt for even more sequrity Bcrypt add a sault to hasing to make it more complex passwords to be creaked 
+
+**UPDATE-**
+**Adding level 5 security (cookies)**:
+
 
 
 
