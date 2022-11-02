@@ -87,6 +87,13 @@ Starting a web protection project
 So today i take a break and brainstroming what i can build and 
 
 
+### Day 007: October 31, 2022 (level 4 Hashing & Salting)
+
+**Today's Progress**:
+1. 
+
+
+
 
 
 
