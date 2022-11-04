@@ -94,12 +94,21 @@ So today i take a break and brainstroming what i can build and
 
 **UPDATE-**
 **Adding level 5 security (cookies)**:
+Added cookies so browsers can now store the information in form of cookies it prevent to login in again and again
 
 
-### Day 007: November 05, 2022 (React)
+
+### Day 007: November 03, 2022 (level 6 OAuth)
+
+**Today's Progress**:
+Added a Oauth method so user can now login with googel accounts no need to creat a new one
+added a button for google signin
+
+### Day 007: November 04, 2022 (React)
 
 **Today's Progress**:
 Start learning react 
+learn some moduels
 
 
 
