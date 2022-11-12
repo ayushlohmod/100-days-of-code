@@ -118,6 +118,10 @@ Learning Jsx
 
 
 
+### Day 008: November 12, 2022 (jsx)
+Jsx inline
+
+
 
 
 
