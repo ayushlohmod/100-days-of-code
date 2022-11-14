@@ -159,3 +159,5 @@ ReactDOM.render(
 ```
 
 ### Day 015: November 14, 2022 (Compentents)
+More react compoent 
+Also gonna start Machine learnign and AWS
