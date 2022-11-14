@@ -127,7 +127,7 @@ created a program where it changes date colour based on time
 
 ```javascript
 
-import react from "react";
+import React from "react";
 import ReactDOM from "react-dom";
 
 const date = new Date();
