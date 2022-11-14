@@ -121,13 +121,39 @@ Learning Jsx
 ### Day 008: November 12, 2022 (jsx)
 Jsx inline
 
+### Day 008: November 14, 2022 (Custom styling)
+today i learn about react custom styling
+created a program where it changes date colour based on time 
 
+```javascript
 
+import react from "react";
+import ReactDOM from "react-dom";
 
+const date = new Date();
+const currenTime = date.getHours();
 
+let greeting;
+const CustomStyle = {
+  clour: ""
+};
 
+if (currenTime < 12) {
+  greeting = "Good Morning";
+  CustomStyle.color = "red";
+} else if (currenTime < 18) {
+  greeting = "Good Afternoon";
+  CustomStyle.color = "blue";
+} else {
+  greeting = "Good Night";
+  CustomStyle.color = "green";
+}
 
+ReactDOM.render(
+  <h1 className="heading" style={CustomStyle}>
+    {greeting}
+  </h1>,
 
-
-
-
+  document.getElementById("root")
+);
+,,,
