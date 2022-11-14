@@ -87,7 +87,7 @@ Starting a web protection project
 So today i take a break and brainstroming what i can build and 
 
 
-### Day 007: November 02, 2022 (level 4 Hashing & Salting)
+### Day 009: November 02, 2022 (level 4 Hashing & Salting)
 
 **Today's Progress**:
 1. using A new hashing method bcrypt for even more sequrity Bcrypt add a sault to hasing to make it more complex passwords to be creaked 
@@ -98,13 +98,13 @@ Added cookies so browsers can now store the information in form of cookies it pr
 
 
 
-### Day 007: November 03, 2022 (level 6 OAuth)
+### Day 010: November 03, 2022 (level 6 OAuth)
 
 **Today's Progress**:
 Added a Oauth method so user can now login with googel accounts no need to creat a new one
 added a button for google signin
 
-### Day 007: November 04, 2022 (React)
+### Day 011: November 04, 2022 (React)
 
 **Today's Progress**:
 Start learning react 
@@ -113,15 +113,15 @@ learn some moduels
 
 ### Took a Little break 
 
-### Day 008: November 07, 2022 (React)
+### Day 012: November 07, 2022 (React)
 Learning Jsx
 
 
 
-### Day 008: November 12, 2022 (jsx)
+### Day 013: November 12, 2022 (jsx)
 Jsx inline
 
-### Day 008: November 14, 2022 (Custom styling)
+### Day 014: November 14, 2022 (Custom styling)
 today i learn about react custom styling
 created a program where it changes date colour based on time 
 
@@ -156,4 +156,6 @@ ReactDOM.render(
 
   document.getElementById("root")
 );
-,,,
+```
+
+### Day 015: November 14, 2022 (Compentents)
