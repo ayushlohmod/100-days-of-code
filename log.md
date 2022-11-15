@@ -166,7 +166,7 @@ Also gonna start Machine learnign and AWS
 today i created a simple Note keeper app using react
 its a clone like google notes
 
-[keeper App](./img/2022-11-15-keeper.jpg)
+![keeper App](./img/2022-11-15-keeper.jpg)
 
 **Link to work:**
 
