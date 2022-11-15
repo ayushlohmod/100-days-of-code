@@ -161,3 +161,12 @@ ReactDOM.render(
 ### Day 015: November 14, 2022 (Compentents)
 More react compoent 
 Also gonna start Machine learnign and AWS
+
+### Day 016: November 15, 2022 (Note-Keeper app)
+today i created a simple Note keeper app using react
+its a clone like google notes
+
+**Link to work:**
+
+- <https://github.com/ayushlohmod/Note-Keeper>
+
