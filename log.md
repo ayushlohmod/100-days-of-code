@@ -114,14 +114,20 @@ learn some moduels
 ### Took a Little break 
 
 ### Day 012: November 07, 2022 (React)
+
+**Today's Progress**:
 Learning Jsx
 
 
 
 ### Day 013: November 12, 2022 (jsx)
+
+**Today's Progress**:
 Jsx inline
 
 ### Day 014: November 14, 2022 (Custom styling)
+
+**Today's Progress**:
 today i learn about react custom styling
 created a program where it changes date colour based on time 
 
@@ -159,10 +165,14 @@ ReactDOM.render(
 ```
 
 ### Day 015: November 14, 2022 (Compentents)
+**Today's Progress**:
+
 More react compoent 
 Also gonna start Machine learnign and AWS
 
 ### Day 016: November 15, 2022 (Note-Keeper app)
+
+**Today's Progress**:
 today i created a simple Note keeper app using react
 its a clone like google notes
 
@@ -175,3 +185,35 @@ its a clone like google notes
 
 
 ### Day 016: November 15, 2022 (Note-Keeper app Update)
+
+**Today's Progress**:
+Add/rendered all the left out notes now the app can show all the notes on a screen
+used array function to do the task
+
+```javascript
+
+import React from "react";
+import Header from "./Header";
+import Footer from "./Footer";
+import Note from "./Note";
+import notes from "../notes";
+
+function App() {
+  return (
+    <div>
+      <Header />
+      {notes.map((noteItem) => (
+        <Note
+          key={noteItem.key}
+          title={noteItem.title}
+          content={noteItem.content}
+        />
+      ))}
+      <Footer />
+    </div>
+  );
+}
+
+export default App;
+
+```
