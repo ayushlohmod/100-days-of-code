@@ -219,6 +219,7 @@ export default App;
 ```
 
 
-### Day 017: November 29, 2022 (
+### Day 017: November 29, 2022 (Tensorflow)
 
 **Today's Progress**:
+I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind 100daysofcode but I need those information for some data science stuff programms I want to build :)
