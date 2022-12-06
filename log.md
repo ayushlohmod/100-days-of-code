@@ -223,3 +223,40 @@ export default App;
 
 **Today's Progress**:
 I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind 100daysofcode but I need those information for some data science stuff programms I want to build :)
+
+
+### Day 017: November 29, 2022 (React Form)
+**Today's Progress**:
+today i created a front page using react
+
+```javascript
+import React, {useState} from "react";
+
+function App() {
+  const [headingText, sumbittext] = useState("Hello");
+  const [isMouseOver, setMouseOver] = useState(false);
+function handelClicked(){
+  sumbittext("Submitted");
+}
+function handelMouseOver(){
+  setMouseOver(true);
+}
+function handelMouseOut(){
+  setMouseOver(false);
+}
+  return (
+    <div className="container">
+      <h1>{headingText}</h1>
+      <input type="text" placeholder="What's your name?" />
+      <button style={{backgroundColor : isMouseOver ? "black" : "white"}} onClick ={handelClicked} 
+      onMouseOver = {handelMouseOver}
+      onMouseOut = {handelMouseOut}
+      >Submit</button>
+    </div>
+  );
+}
+export default App;
+
+
+```
+
