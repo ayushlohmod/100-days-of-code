@@ -264,4 +264,5 @@ export default App;
 ### Day 018: january 6, 2023 (React)
 **Today's Progress**:
 addede delete functionalty to my react keeper app
+![keeper App](./img/g)
 
