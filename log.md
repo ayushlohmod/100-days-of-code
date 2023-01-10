@@ -266,3 +266,11 @@ export default App;
 addede delete functionalty to my react keeper app
 ![keeper App](./img/keeper2.img)
 
+**Today's Progress**:
+
+I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind 100daysofcode but I need those information for some data science stuff programms I want to build :)
+
+**Link to work:**
+
+- <https://github.com/ayushlohmod/machine-learning>
+
