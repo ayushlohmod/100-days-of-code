@@ -274,3 +274,7 @@ I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind
 
 - <https://github.com/ayushlohmod/machine-learning>
 
+
+### Day 019: january 6, 2023 (Meren app)
+**Today's Progress**:
+
