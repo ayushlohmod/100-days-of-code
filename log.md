@@ -277,4 +277,9 @@ I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind
 
 ### Day 019: january 6, 2023 (Meren app)
 **Today's Progress**:
+today i did some digging and search for reasources/Materials i want to use in this project
+
+### Day 019: january 18, 2023 (Meren app)
+**Today's Progress**:
+Applied the basic backend and frontend files
 
