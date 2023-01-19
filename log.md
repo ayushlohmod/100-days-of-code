@@ -283,3 +283,7 @@ today i did some digging and search for reasources/Materials i want to use in th
 **Today's Progress**:
 Applied the basic backend and frontend files
 
+### Day 019: january 18, 2023 (Meren app)
+**Today's Progress**:
+Added a login page to my socail media app
+
