@@ -287,3 +287,28 @@ Applied the basic backend and frontend files
 **Today's Progress**:
 Added a login page to my socail media app
 
+### Day 019: january 18, 2023 (Meren app)
+**Today's Progress**:
+Created a front page og my app using talwin css
+and added a google login 
+```javascript
+            <div className='shadow-2xl'>
+              <GoogleLogin 
+                clientId=''
+                render={(renderProps)=>(
+                  <button type='button' className='bg-mainColor flex justify-center items-center p-3 rounded-lg'
+                  onClick={renderProps.onClick}
+                  disabled = {renderProps.disabled}
+                  >
+                  <FcGoogle className='mr-3'/> Sign in with Google
+
+                  </button>
+
+                )}
+                onSuccess={responseGoogle}
+                onFailure={responseGoogle}
+                cookiePolicy="singel_host_origin"
+              />
+```
+
+![Social media app](./img/2023-01-21.img)
