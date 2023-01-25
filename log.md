@@ -312,3 +312,8 @@ and added a google login
 ```
 
 ![Social media app](./img/2023-01-21.img)
+
+
+### Day 019: january 18, 2023 (Meren app)
+**Today's Progress**:
+added a google auth to my app and connected to santiy
