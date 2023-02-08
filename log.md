@@ -321,3 +321,8 @@ added a google auth to my app and connected to santiy
 ### Day 019: january 18, 2023 (Meren app)
 **Today's Progress**:
 today i try to solv a error with does't let me login using google Oauth
+
+### Day 019: january 18, 2023 (Meren app)
+**Today's Progress**:
+Added a sidebar for my webapp and add some categories
+optimise for desktop view
