@@ -330,8 +330,7 @@ optimise for desktop view
 ### Day 019: january 18, 2023 (Meren app)
 **Today's Progress**:
 added a search bar in my webapp
-
-```
+```javascript
 const Navbar = ( {searchTerm, setSearchTerm, user}) => {
   const navigate = useNavigate();
   // if(!user) return null;
