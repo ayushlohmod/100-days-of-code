@@ -326,3 +326,7 @@ today i try to solv a error with does't let me login using google Oauth
 **Today's Progress**:
 Added a sidebar for my webapp and add some categories
 optimise for desktop view
+
+### Day 019: january 18, 2023 (Meren app)
+**Today's Progress**:
+added a search bar in my webapp
