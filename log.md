@@ -352,3 +352,7 @@ const Navbar = ( {searchTerm, setSearchTerm, user}) => {
 }
 ```
 it start getting in shape
+
+### Day 019: january 18, 2023 (Meren app)
+**Today's Progress**:
+today i created a loading component which shows loding icon when when loading feed
