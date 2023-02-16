@@ -356,3 +356,7 @@ it start getting in shape
 ### Day 019: january 18, 2023 (Meren app)
 **Today's Progress**:
 today i created a loading component which shows loding icon when when loading feed
+
+### Day 019: january 18, 2023 (Meren app)
+**Today's Progress**:
+TODAY I DO SOME DIGGING ON HOW TO ADD A PINS TO MY APPS FEED STILL WORKING ON IT BUT FOR SOMEREASON ITS NOT SHOWING PINS ON MY FEED I WILL TRY TO FIX IT
