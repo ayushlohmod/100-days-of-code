@@ -360,3 +360,8 @@ today i created a loading component which shows loding icon when when loading fe
 ### Day 019: january 18, 2023 (Meren app)
 **Today's Progress**:
 TODAY I DO SOME DIGGING ON HOW TO ADD A PINS TO MY APPS FEED STILL WORKING ON IT BUT FOR SOMEREASON ITS NOT SHOWING PINS ON MY FEED I WILL TRY TO FIX IT
+
+### Day 019: january 18, 2023 (Meren app)
+**Today's Progress**:
+My app feed not showing pins(content) its the 3rd day of found a way out and i am still stuglling
+also Since GoogleOauth release new way to add google sign in but i have to re write some code to make it work
