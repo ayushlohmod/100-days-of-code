@@ -370,4 +370,4 @@ also Since GoogleOauth release new way to add google sign in but i have to re wr
 **Today's Progress**:
 Finally i make it work my feed bug take a look how its loking currently
 
-[Social media app](./img/feed.img)
+![Social media app](./img/feed.img)
