@@ -371,3 +371,14 @@ also Since GoogleOauth release new way to add google sign in but i have to re wr
 Finally i make it work my feed bug take a look how its loking currently
 
 ![Social media app](./img/feed.img)
+
+
+### Day 019: january 18, 2023 (Meren app)
+**Today's Progress**:
+added some neccesasroy buttons 
+- save button
+- delete button
+- download button
+also added more information to my feed post like
+- user id 
+- user websited
