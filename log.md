@@ -379,6 +379,11 @@ added some neccesasroy buttons
 - save button
 - delete button
 - download button
-also added more information to my feed post like
+
+ also added more information to my feed post like
 - user id 
-- user websited
+- user website
+
+There are still lots of bugs that needs to be solved but currently i am working to add all the components
+first to the webapp then i will try to resolve all the issues and polish some works 
+there are lots of things that not feels right or doest work at all i will solve all of this at end
