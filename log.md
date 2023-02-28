@@ -387,3 +387,13 @@ added some neccesasroy buttons
 There are still lots of bugs that needs to be solved but currently i am working to add all the components
 first to the webapp then i will try to resolve all the issues and polish some works 
 there are lots of things that not feels right or doest work at all i will solve all of this at end
+
+### Day 019: january 18, 20
+**Today's Progress**:
+added a button which can access the creatPin component in that you can upload new images or photos 
+thata can later added to main feed by using this now user can easily upload new images
+
+note: this will sometime shows error i will try to fix it
+**Link to work:**
+
+- <https://github.com/ayushlohmod/shareWall>
