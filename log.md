@@ -398,3 +398,19 @@ note: this will sometime shows error i will try to fix it
 **Link to work:**
 
 - <https://github.com/ayushlohmod/shareWall>
+
+
+### Day 019: january 18, 20
+**Today's Progress**:
+
+Fixed the Bug where image is not appearing in upload section 
+
+also added moore colums to upload image and added a colum wher you can chose
+the category of your upload
+
+- Titile
+- About
+- destination
+
+For some reason the image is unable to upload to sanity server showing some erroe
+i will try to fix that tomorrow and upload the latest changes to the <https://github.com/ayushlohmod/shareWall> 
