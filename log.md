@@ -413,4 +413,6 @@ the category of your upload
 - destination
 
 For some reason the image is unable to upload to sanity server showing some erroe
+it is showing some undefined error i will solv it as soon as posible and
 i will try to fix that tomorrow and upload the latest changes to the <https://github.com/ayushlohmod/shareWall> 
+also 
