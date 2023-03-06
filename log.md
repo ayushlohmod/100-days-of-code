@@ -416,3 +416,6 @@ For some reason the image is unable to upload to sanity server showing some erro
 it is showing some undefined error i will solv it as soon as posible and
 i will try to fix that tomorrow and upload the latest changes to the <https://github.com/ayushlohmod/shareWall> 
 also 
+
+### Day 019: january 18, 20
+**Today's Progress**:
