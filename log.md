@@ -425,6 +425,10 @@ Fixed the Bug where image is unable to upload to sanity database
 Added a new feature where you can see the details of the images by taping on 
 it shows all the information about image and shows some crusiol information
 
-All the latest chages are now avilable <https://github.com/ayushlohmod/shareWall> 
-thes changes yet to merge on main project there are some work left to add as feature
+All the latest chages are now avilable
+these changes yet to merge on main project there are some work left to add as feature
 as it done i am done with feature part then i will solve bugs and refine the code
+
+**Link to work:**
+
+- <https://github.com/ayushlohmod/shareWall>
