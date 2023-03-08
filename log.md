@@ -436,6 +436,7 @@ as it done i am done with feature part then i will solve bugs and refine the cod
 ### Day 019: january 18, 20
 **Today's Progress**:
 today added a comment section where you can comment down and post it 
+
 BUG: for some reason the comment is not showing i will try to fix it tomorrow
 
 Also added a similar post category where yoy can see similar post to your current category post
