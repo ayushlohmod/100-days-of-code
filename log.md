@@ -442,3 +442,9 @@ BUG: for some reason the comment is not showing i will try to fix it tomorrow
 Also added a similar post category where yoy can see similar post to your current category post
 
 All the latest changed has been already pushed to sharewall repostry
+
+
+### Day 019: january 18, 20
+**Today's Progress**:
+Today bit lazy made some changes to userprofile route fix the bug where not showing the 
+loading icon 
