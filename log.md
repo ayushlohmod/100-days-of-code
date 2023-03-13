@@ -448,3 +448,12 @@ All the latest changed has been already pushed to sharewall repostry
 **Today's Progress**:
 Today bit lazy made some changes to userprofile route fix the bug where not showing the 
 loading icon 
+
+### Day 019: january 18, 20
+**Today's Progress**:
+Today i try to create a profile page but since my Googlelogin isnot working properly it dint 
+show me anything it suppose to show imgaes from the link and change everytime refrest it
+but it didnt work 
+
+Whell now there is another bug to solve for now i will leave it that i will try to 
+do some other part and when its done i will try to reoslve it
