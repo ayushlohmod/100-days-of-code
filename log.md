@@ -457,3 +457,17 @@ but it didnt work
 
 Whell now there is another bug to solve for now i will leave it that i will try to 
 do some other part and when its done i will try to reoslve it
+
+### Day 019: january 18, 20
+**Today's Progress**:
+Today i added a search system now you can search the post by searching on navbar
+also replace the categories to real ones and added category images for better understanding
+For some reason Masonry layout is not working so the post size is not equal to one another
+i will try to fix it tomorrow
+
+The main content is now done except the user profile page so my next task is to solve the
+Login page and make it work then i will finish the userProfile page
+
+**Link to work:**
+
+- <https://github.com/ayushlohmod/shareWall>
