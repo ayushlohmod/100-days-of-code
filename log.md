@@ -471,3 +471,13 @@ Login page and make it work then i will finish the userProfile page
 **Link to work:**
 
 - <https://github.com/ayushlohmod/shareWall>
+
+### Day 019: january 18, 20
+**Today's Progress**:
+Today i add a new fresh logo to my website removed the old temprarly one
+this logo is more refined and looks good
+also change the login file added a new Google oauth it now shows the
+login button but still it shows some error of accessing it i will try to
+figure out what it was 
+Now i started to improved the website as soon as the login system work
+i will make couple of changed hear and ther to make it complete
