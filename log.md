@@ -481,3 +481,9 @@ login button but still it shows some error of accessing it i will try to
 figure out what it was 
 Now i started to improved the website as soon as the login system work
 i will make couple of changed hear and ther to make it complete
+
+
+### Day 019: january 18, 20
+**Today's Progress**:
+Today i started learning about DevOps 
+yamil
