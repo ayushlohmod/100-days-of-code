@@ -487,3 +487,8 @@ i will make couple of changed hear and ther to make it complete
 **Today's Progress**:
 Today i started learning about DevOps 
 yamil
+
+### Day 019: january 18, 20
+**Today's Progress**:
+Today i learned about shell scripting and wrote some basic script
+
