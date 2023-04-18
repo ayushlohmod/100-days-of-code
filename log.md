@@ -492,3 +492,6 @@ yamil
 **Today's Progress**:
 Today i learned about shell scripting and wrote some basic script
 
+### Day 019: january 18, 20
+**Today's Progress**:
+today i learned docker
