@@ -495,3 +495,39 @@ Today i learned about shell scripting and wrote some basic script
 ### Day 019: january 18, 20
 **Today's Progress**:
 today i learned docker
+
+### Day 019: january 18, 20
+**Today's Progress**:
+
+DevOps progress 
+
+1. Networking - Done
+2. Yaml - Done
+3. ShellScripting - Done
+4. Docker - Done - also build a nodejs app with docker
+5.  Kubernetes - Done
+6.  service mesh - Done
+7.  Github CI CD - Done
+
+**Link to work:**
+
+- <https://github.com/ayushlohmod/devops>
+
+
+For the past 2 months i am incontinence as i am sick slowely recovering 
+
+Also did some much needed work on my Website Sharewall
+! Fixed 
+
+1. Login issue - Login issue is fixed now i can login with my Gmail
+2. post unable to show profile pic is fixed
+3. the comment section is now looking organised
+4. Image cant upload is fixed 
+
+the feature part is completed and the branch is merged all the code in merged to main branch 
+
+**Link to work:**
+
+- <https://github.com/ayushlohmod/shareWall>
+
+
