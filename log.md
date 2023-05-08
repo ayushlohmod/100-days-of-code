@@ -524,10 +524,13 @@ Also did some much needed work on my Website Sharewall
 3. the comment section is now looking organised
 4. Image cant upload is fixed 
 
+![Social media app](./img/newFeed.img)
+
 the feature part is completed and the branch is merged all the code in merged to main branch 
 
 **Link to work:**
 
 - <https://github.com/ayushlohmod/shareWall>
+
 
 
