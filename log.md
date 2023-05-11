@@ -532,5 +532,19 @@ the feature part is completed and the branch is merged all the code in merged to
 
 - <https://github.com/ayushlohmod/shareWall>
 
+### Day 019: january 18, 20
+**Today's Progress**:
+Today i worked on Sharewall fix some major bugs
+fix the comments are not visible or not posting below images
+Latest changes are merged to main branch
+Also deployed the app on netlify but i have a domain name so it redirects 
+
+**Deployed App:**
+
+- <https://ayushlohmod.live>
+
+**Link to work:**
+
+- <https://github.com/ayushlohmod/shareWall>
 
 
