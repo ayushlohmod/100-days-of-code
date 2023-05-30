@@ -552,3 +552,8 @@ Also deployed the app on netlify but i have a domain name so it redirects
 So i am decided to build my portfolio website
 Starting from today
 today i little bit brainstrom to see how and what i can build got some ideas 
+
+### Day 019: january 18, 20
+**Today's Progress**:
+Started Devops projects try to complete it without delay
+
