@@ -557,3 +557,9 @@ today i little bit brainstrom to see how and what i can build got some ideas
 **Today's Progress**:
 Started Devops projects try to complete it without delay
 
+### Day 019: january 18, 20
+**Today's Progress**:
+Completed jenkins
+Completed Promethus
+Completed New relic
+
