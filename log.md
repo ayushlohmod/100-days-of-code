@@ -184,7 +184,7 @@ its a clone like google notes
 
 
 
-### Day 016: November 15, 2022 (Note-Keeper app Update)
+### Day 017: November 15, 2022 (Note-Keeper app Update)
 
 **Today's Progress**:
 Add/rendered all the left out notes now the app can show all the notes on a screen
@@ -219,13 +219,13 @@ export default App;
 ```
 
 
-### Day 017: November 29, 2022 (Tensorflow)
+### Day 018: November 29, 2022 (Tensorflow)
 
 **Today's Progress**:
 I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind 100daysofcode but I need those information for some data science stuff programms I want to build :)
 
 
-### Day 017: November 29, 2022 (React Form)
+### Day 019: November 29, 2022 (React Form)
 **Today's Progress**:
 today i created a front page using react
 
@@ -261,7 +261,7 @@ export default App;
 ```
 
 
-### Day 018: january 6, 2023 (React)
+### Day 020: january 6, 2023 (React)
 **Today's Progress**:
 addede delete functionalty to my react keeper app
 ![keeper App](./img/keeper2.img)
@@ -275,19 +275,19 @@ I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind
 - <https://github.com/ayushlohmod/machine-learning>
 
 
-### Day 019: january 6, 2023 (Meren app)
+### Day 021: january 6, 2023 (Meren app)
 **Today's Progress**:
 today i did some digging and search for reasources/Materials i want to use in this project
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 022: january 18, 2023 (Meren app)
 **Today's Progress**:
 Applied the basic backend and frontend files
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 023: january 18, 2023 (Meren app)
 **Today's Progress**:
 Added a login page to my socail media app
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 024: january 18, 2023 (Meren app)
 **Today's Progress**:
 Created a front page og my app using talwin css
 and added a google login 
@@ -314,20 +314,20 @@ and added a google login
 ![Social media app](./img/2023-01-21.img)
 
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 025: january 18, 2023 (Meren app)
 **Today's Progress**:
 added a google auth to my app and connected to santiy
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 026: january 18, 2023 (Meren app)
 **Today's Progress**:
 today i try to solv a error with does't let me login using google Oauth
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 027: january 18, 2023 (Meren app)
 **Today's Progress**:
 Added a sidebar for my webapp and add some categories
 optimise for desktop view
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 028: january 18, 2023 (Meren app)
 **Today's Progress**:
 added a search bar in my webapp
 ```javascript
@@ -353,27 +353,27 @@ const Navbar = ( {searchTerm, setSearchTerm, user}) => {
 ```
 it start getting in shape
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 029: january 18, 2023 (Meren app)
 **Today's Progress**:
 today i created a loading component which shows loding icon when when loading feed
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 030: january 18, 2023 (Meren app)
 **Today's Progress**:
 TODAY I DO SOME DIGGING ON HOW TO ADD A PINS TO MY APPS FEED STILL WORKING ON IT BUT FOR SOMEREASON ITS NOT SHOWING PINS ON MY FEED I WILL TRY TO FIX IT
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 031: january 18, 2023 (Meren app)
 **Today's Progress**:
 My app feed not showing pins(content) its the 3rd day of found a way out and i am still stuglling
 also Since GoogleOauth release new way to add google sign in but i have to re write some code to make it work
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 032: january 18, 2023 (Meren app)
 **Today's Progress**:
 Finally i make it work my feed bug take a look how its loking currently
 
 ![Social media app](./img/feed.img)
 
 
-### Day 019: january 18, 2023 (Meren app)
+### Day 033: january 18, 2023 (Meren app)
 **Today's Progress**:
 added some neccesasroy buttons 
 - save button
@@ -388,7 +388,7 @@ There are still lots of bugs that needs to be solved but currently i am working 
 first to the webapp then i will try to resolve all the issues and polish some works 
 there are lots of things that not feels right or doest work at all i will solve all of this at end
 
-### Day 019: january 18, 20
+### Day 034: january 18, 20
 **Today's Progress**:
 added a button which can access the creatPin component in that you can upload new images or photos 
 thata can later added to main feed by using this now user can easily upload new images
@@ -400,7 +400,7 @@ note: this will sometime shows error i will try to fix it
 - <https://github.com/ayushlohmod/shareWall>
 
 
-### Day 019: january 18, 20
+### Day 035: january 18, 20
 **Today's Progress**:
 
 Fixed the Bug where image is not appearing in upload section 
@@ -417,7 +417,7 @@ it is showing some undefined error i will solv it as soon as posible and
 i will try to fix that tomorrow and upload the latest changes to the <https://github.com/ayushlohmod/shareWall> 
 also 
 
-### Day 019: january 18, 20
+### Day 036: january 18, 20
 **Today's Progress**:
 
 Fixed the Bug where image is unable to upload to sanity database
@@ -433,7 +433,7 @@ as it done i am done with feature part then i will solve bugs and refine the cod
 
 - <https://github.com/ayushlohmod/shareWall>
 
-### Day 019: january 18, 20
+### Day 037: january 18, 20
 **Today's Progress**:
 today added a comment section where you can comment down and post it 
 
@@ -444,12 +444,12 @@ Also added a similar post category where yoy can see similar post to your curren
 All the latest changed has been already pushed to sharewall repostry
 
 
-### Day 019: january 18, 20
+### Day 038: january 18, 20
 **Today's Progress**:
 Today bit lazy made some changes to userprofile route fix the bug where not showing the 
 loading icon 
 
-### Day 019: january 18, 20
+### Day 039: january 18, 20
 **Today's Progress**:
 Today i try to create a profile page but since my Googlelogin isnot working properly it dint 
 show me anything it suppose to show imgaes from the link and change everytime refrest it
@@ -458,7 +458,7 @@ but it didnt work
 Whell now there is another bug to solve for now i will leave it that i will try to 
 do some other part and when its done i will try to reoslve it
 
-### Day 019: january 18, 20
+### Day 040: january 18, 20
 **Today's Progress**:
 Today i added a search system now you can search the post by searching on navbar
 also replace the categories to real ones and added category images for better understanding
@@ -472,7 +472,7 @@ Login page and make it work then i will finish the userProfile page
 
 - <https://github.com/ayushlohmod/shareWall>
 
-### Day 019: january 18, 20
+### Day 041: january 18, 20
 **Today's Progress**:
 Today i add a new fresh logo to my website removed the old temprarly one
 this logo is more refined and looks good
@@ -483,20 +483,20 @@ Now i started to improved the website as soon as the login system work
 i will make couple of changed hear and ther to make it complete
 
 
-### Day 019: january 18, 20
+### Day 042: january 18, 20
 **Today's Progress**:
 Today i started learning about DevOps 
 yamil
 
-### Day 019: january 18, 20
+### Day 043: january 18, 20
 **Today's Progress**:
 Today i learned about shell scripting and wrote some basic script
 
-### Day 019: january 18, 20
+### Day 044: january 18, 20
 **Today's Progress**:
 today i learned docker
 
-### Day 019: january 18, 20
+### Day 045: january 18, 20
 **Today's Progress**:
 
 DevOps progress 
@@ -532,7 +532,7 @@ the feature part is completed and the branch is merged all the code in merged to
 
 - <https://github.com/ayushlohmod/shareWall>
 
-### Day 019: january 18, 20
+### Day 046: january 18, 20
 **Today's Progress**:
 Today i worked on Sharewall fix some major bugs
 fix the comments are not visible or not posting below images
@@ -547,17 +547,17 @@ Also deployed the app on netlify but i have a domain name so it redirects
 
 - <https://github.com/ayushlohmod/shareWall>
 
-### Day 019: january 18, 20
+### Day 047: january 18, 20
 **Today's Progress**:
 So i am decided to build my portfolio website
 Starting from today
 today i little bit brainstrom to see how and what i can build got some ideas 
 
-### Day 019: january 18, 20
+### Day 048: january 18, 20
 **Today's Progress**:
 Started Devops projects try to complete it without delay
 
-### Day 019: january 18, 20
+### Day 049: january 18, 20
 **Today's Progress**:
 Completed jenkins
 Completed Promethus
