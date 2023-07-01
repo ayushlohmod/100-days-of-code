@@ -563,3 +563,9 @@ Completed jenkins
 Completed Promethus
 Completed New relic
 
+### Day 050: july 1, 2023
+**Today's Progress**:
+Took a break but from now onwards i will continue 
+So today i try to build a devOps project 
+i will update it as i finished also the work is in the DevOps Repo
+
