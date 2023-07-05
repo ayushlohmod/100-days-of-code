@@ -572,3 +572,8 @@ i will update it as i finished also the work is in the DevOps Repo
 ### Day 050: july 1, 2023
 **Today's Progress**:
 Created a python File to do some function 
+
+### Day 050: july 1, 2023
+**Today's Progress**:
+Started to build a portfolio
+
