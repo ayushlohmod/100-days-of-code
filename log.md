@@ -577,3 +577,12 @@ Created a python File to do some function
 **Today's Progress**:
 Started to build a portfolio
 
+### Day 050: july 1, 2023
+**Today's Progress**:
+Today did some work on my protfolio website have some initial ideas i will
+try to implement in comming days and see how it will looks
+
+**Link to work:**
+
+- <https://github.com/ayushlohmod/portofolio>
+
