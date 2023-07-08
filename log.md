@@ -584,5 +584,5 @@ try to implement in comming days and see how it will looks
 
 **Link to work:**
 
-- <https://github.com/ayushlohmod/portofolio>
+- <https://github.com/ayushlohmod/Portfolio>
 
