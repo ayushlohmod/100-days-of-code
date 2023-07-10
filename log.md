@@ -586,3 +586,8 @@ try to implement in comming days and see how it will looks
 
 - <https://github.com/ayushlohmod/Portfolio>
 
+
+### Day 050: july 1, 2023
+**Today's Progress**:
+Today added some content in my website and try differnt things to see 
+what works also figuring out how to do trasiton usin hooks
