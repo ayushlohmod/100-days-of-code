@@ -600,4 +600,4 @@ DevOPs day
 **Today's Progress**:
 Did some work on my portfolio
 
-[Portfolio](./img/portfolio.jpg)
+![Portfolio](./img/portfolio.jpg)
