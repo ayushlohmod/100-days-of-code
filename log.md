@@ -595,3 +595,9 @@ what works also figuring out how to do trasiton usin hooks
 ### Day 050: july 1, 2023
 **Today's Progress**:
 DevOPs day
+
+### Day 050: july 1, 2023
+**Today's Progress**:
+Did some work on my portfolio
+
+[Portfolio](./img/portfolio.img)
