@@ -607,3 +607,7 @@ Did some work on my portfolio
 Almost Completed  my Portfolio but ther is a issue where i want to fech my github repostires 
 thru GitHub REST API but for some reason it din't fetch the data it showing the error
 API rate limit exceeded i will try to solve it tomorrow
+
+### Day 050: july 1, 2023
+**Today's Progress**:
+Started a new project where i use 3d graphics modeling to showcase product 
