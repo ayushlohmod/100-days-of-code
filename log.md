@@ -283,11 +283,11 @@ today i did some digging and search for reasources/Materials i want to use in th
 **Today's Progress**:
 Applied the basic backend and frontend files
 
-### Day 023: january 18, 2023 (Meren app)
+### Day 023: january 19, 2023 (Meren app)
 **Today's Progress**:
 Added a login page to my socail media app
 
-### Day 024: january 18, 2023 (Meren app)
+### Day 024: january 20, 2023 (Meren app)
 **Today's Progress**:
 Created a front page og my app using talwin css
 and added a google login 
@@ -314,20 +314,20 @@ and added a google login
 ![Social media app](./img/2023-01-21.img)
 
 
-### Day 025: january 18, 2023 (Meren app)
+### Day 025: january 21, 2023 (Meren app)
 **Today's Progress**:
 added a google auth to my app and connected to santiy
 
-### Day 026: january 18, 2023 (Meren app)
+### Day 026: january 12, 2023 (Meren app)
 **Today's Progress**:
 today i try to solv a error with does't let me login using google Oauth
 
-### Day 027: january 18, 2023 (Meren app)
+### Day 027: january 23, 2023 (Meren app)
 **Today's Progress**:
 Added a sidebar for my webapp and add some categories
 optimise for desktop view
 
-### Day 028: january 18, 2023 (Meren app)
+### Day 028: january 26, 2023 (Meren app)
 **Today's Progress**:
 added a search bar in my webapp
 ```javascript
@@ -353,27 +353,27 @@ const Navbar = ( {searchTerm, setSearchTerm, user}) => {
 ```
 it start getting in shape
 
-### Day 029: january 18, 2023 (Meren app)
+### Day 029: january 28, 2023 (Meren app)
 **Today's Progress**:
 today i created a loading component which shows loding icon when when loading feed
 
-### Day 030: january 18, 2023 (Meren app)
+### Day 030: january 29, 2023 (Meren app)
 **Today's Progress**:
 TODAY I DO SOME DIGGING ON HOW TO ADD A PINS TO MY APPS FEED STILL WORKING ON IT BUT FOR SOMEREASON ITS NOT SHOWING PINS ON MY FEED I WILL TRY TO FIX IT
 
-### Day 031: january 18, 2023 (Meren app)
+### Day 031: February 1, 2023 (Meren app)
 **Today's Progress**:
 My app feed not showing pins(content) its the 3rd day of found a way out and i am still stuglling
 also Since GoogleOauth release new way to add google sign in but i have to re write some code to make it work
 
-### Day 032: january 18, 2023 (Meren app)
+### Day 032: February 2, 2023 (Meren app)
 **Today's Progress**:
 Finally i make it work my feed bug take a look how its loking currently
 
 ![Social media app](./img/feed.img)
 
 
-### Day 033: january 18, 2023 (Meren app)
+### Day 033: February 5, 2023 (Meren app)
 **Today's Progress**:
 added some neccesasroy buttons 
 - save button
@@ -388,7 +388,7 @@ There are still lots of bugs that needs to be solved but currently i am working 
 first to the webapp then i will try to resolve all the issues and polish some works 
 there are lots of things that not feels right or doest work at all i will solve all of this at end
 
-### Day 034: january 18, 20
+### Day 034: February 7, 2023
 **Today's Progress**:
 added a button which can access the creatPin component in that you can upload new images or photos 
 thata can later added to main feed by using this now user can easily upload new images
@@ -400,7 +400,7 @@ note: this will sometime shows error i will try to fix it
 - <https://github.com/ayushlohmod/shareWall>
 
 
-### Day 035: january 18, 20
+### Day 035: February 9, 2023
 **Today's Progress**:
 
 Fixed the Bug where image is not appearing in upload section 
@@ -417,7 +417,7 @@ it is showing some undefined error i will solv it as soon as posible and
 i will try to fix that tomorrow and upload the latest changes to the <https://github.com/ayushlohmod/shareWall> 
 also 
 
-### Day 036: january 18, 20
+### Day 036: February 10, 2023
 **Today's Progress**:
 
 Fixed the Bug where image is unable to upload to sanity database
@@ -433,7 +433,7 @@ as it done i am done with feature part then i will solve bugs and refine the cod
 
 - <https://github.com/ayushlohmod/shareWall>
 
-### Day 037: january 18, 20
+### Day 037: February 14, 2023
 **Today's Progress**:
 today added a comment section where you can comment down and post it 
 
@@ -444,7 +444,7 @@ Also added a similar post category where yoy can see similar post to your curren
 All the latest changed has been already pushed to sharewall repostry
 
 
-### Day 038: january 18, 20
+### Day 038: February 19, 2023
 **Today's Progress**:
 Today bit lazy made some changes to userprofile route fix the bug where not showing the 
 loading icon 
