@@ -612,7 +612,7 @@ API rate limit exceeded i will try to solve it tomorrow
 **Today's Progress**:
 Started a new project where i use 3d graphics modeling to showcase product 
 
-### Day 050: july 1, 2023
+### Day 050: Aug 7, 2023
 **Today's Progress**:
 Created initially files and added animation to project using ThreeJs 
 used SlideAnimation left so it animate from the left
