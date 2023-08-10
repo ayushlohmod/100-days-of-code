@@ -655,6 +655,112 @@ Added some contex to Home Page
 
 ### Day 050: Aug 8, 2023
 **Today's Progress**:
-Added shirt and display on left side of screen
-Added Background colour of shirt and made camera rig closer so the shirt looks bigger and can move usign cursor
+Added shirt and display on right side of screen also added a texture to shirt
+
+``` JavaScript
+const Shirt = () => {
+    const snap = useSnapshot(state)
+    const { nodes, materials } = useGLTF('/shirt_baked.glb')
+    const logoTexture = useTexture(snap.logoDecal)
+    const fullTexture = useTexture(snap.fullDecal)
+    useFrame((state, delta) => easing.dampC(materials.lambert1.color, snap.color, 0.25, delta));
+    const stateString = JSON.stringify(snap);
+  return (
+    <group
+    key={stateString} >
+     <mesh 
+        castShadow
+        geometry={nodes.T_Shirt_male.geometry}
+        material={materials.lambert1}
+        material-roughness={1}
+        dispose={null}
+        >
+        {snap.isFullTexture && (
+          <Decal 
+            position={[0, 0, 0]}
+            rotation={[0, 0, 0]}
+            scale={1}
+            map={fullTexture}
+          />
+        )}
+```
+
+### Day 050: Aug 9, 2023
+**Today's Progress**:
+
+Added Movement to the Shirt using cursor 
+
+```JavaScript
+//set the initial position of the model
+    let targetPosition = [-0.4, 0, 2];
+    if(snap.intro) {
+      if(isBreakpoint) targetPosition = [0, 0, 2];
+      if(isMobile) targetPosition = [0, 0.2, 2.5];
+    } else {
+      if(isMobile) targetPosition = [0, 0, 2.5]
+      else targetPosition = [0, 0, 2];
+    }
+
+    // set model camera position
+    easing.damp3(state.camera.position, targetPosition, 0.25, delta)
+
+  
+
+  //set the model rotating easily
+  easing.dampE(
+    group.current.rotation,
+    [ state.pointer.y / 100, -state.pointer.x / 5,0 ],
+    0.25,
+    delta
+  )})
+
+  ```
+
+### Day 050: Aug 10, 2023
+**Today's Progress**:
+
+So made changes to Camera angel make it closer to the shirt so shirt apper bigger
+made lighting adjustment ande added shadows so it shirt colour appear brigher and looks good
+
+``` JavaScript
+<AccumulativeShadows
+      ref={shadows}
+      temporal
+      frames={60}
+      alphaTest={0.85}
+      scae={10}
+      rotation={[Math.PI / 2, 0, 0]}
+      position={[0, 0, -0.14]}
+    >
+      <RandomizedLight 
+        amount={4}
+        radius={9}
+        intensity={0.55}
+        ambient={0.25}
+        position={[5, 5, -10]}
+      />
+      <RandomizedLight 
+        amount={4}
+        radius={5}
+        intensity={0.25}
+        ambient={0.55}
+        position={[-5, 5, -9]}
+      />
+    </AccumulativeShadows>
+
+```
+
+**Link to work:**
+
+- <https://github.com/shirtcraft>
+
+### Day 050: Aug 11, 2023
+**Today's Progress**:
+
+Made some changes to shirt and camera angle
+So thats how it currently looking
+
 ![Shirt Craft](./img/shirtcraft.img)
+
+
+
