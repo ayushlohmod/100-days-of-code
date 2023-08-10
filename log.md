@@ -653,3 +653,8 @@ Added some contex to Home Page
     </AnimatePresence>
 ```
 
+### Day 050: Aug 8, 2023
+**Today's Progress**:
+Added shirt and display on left side of screen
+Added Background colour of shirt and made camera rig closer so the shirt looks bigger and can move usign cursor
+![Shirt Craft](./img/shirtcraft.img)
