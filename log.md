@@ -762,5 +762,11 @@ So thats how it currently looking
 
 ![Shirt Craft](./img/shirtcraft.img)
 
+### Day 050: Aug 15, 2023
+**Today's Progress**:
+
+Add onClick Functionality to the icons
+Added Colour picker so now usere can pick the colour they want
+
 
 
