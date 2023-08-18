@@ -768,5 +768,53 @@ So thats how it currently looking
 Add onClick Functionality to the icons
 Added Colour picker so now usere can pick the colour they want
 
+### Day 050: Aug 18, 2023
+**Today's Progress**:
+Added Backed Server files connected to Dalle
 
+``` JavaScript
+
+import dalleRoutes from './routes/dalle.routes.js';
+dotenv.config();
+const app = express();
+app.use(cors());
+app.use(express.json({ limig: "50mb" }))
+app.use('/api/v1/dalle', dalleRoutes);
+app.get('/', (req, res) => {
+  res.status(200).json({ message: "Hello from DALL.E" })
+})
+app.listen(8080, () => console.log('Server has started on port 8080'))
+```
+Added Dalle routes to call api from Open Ai
+
+```JavaScript
+
+dotenv.config();
+const router = express.Router();
+const configuration = new Configuration({
+    apiKey: process.env.OPENAI_API_KEY,
+});
+const openai = new OpenAIApi(configuration);
+router.route('/').get((req, res) => {
+  res.status(200).json({ message: "Hello from DALL.E ROUTES" })
+})
+router.route('/').post(async(req, res) => {
+    try{     
+        const {prompt} = req.body;
+        const response = await openai.createImage({
+            n: 1,
+            size: '1024x1024',
+            response_format: 'b64_json'
+        })
+        const image = response.data.data[0].b64_json;
+        res.status(200).json({ photo: image });
+     } catch(err){
+        console.error(err);
+        res.status(500).json({ message: "Internal Server Error" })
+        } 
+    })
+```
+**Link to work:**
+
+- <https://github.com/shirtcraft>
 
